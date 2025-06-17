@@ -1,0 +1,9 @@
+<?php
+error_reporting(0);
+$botToken="7656500939:AAHOrGYMRxweXyG6ndLlRuYKIMrIh87OKNk";
+$dbUserName="cheetanetbot";
+$dbPassword="69GgtBmVI02bJ9tn!TTE";
+$dbName="cheetanetbot";
+$botUrl="https://cheetanet.relamsho.sbs/bot.php";
+$admin="1048235644";
+?>
